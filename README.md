@@ -40,7 +40,7 @@ python main.py
 ### 2. Start the Frontend Application
 Open a second terminal, navigate to the root directory, and launch the Streamlit app:
 ```bash
-streamlit run frontend/app.py
+streamlit run app.py
 ```
 *Your browser should automatically open to the LLMSCAN dashboard (usually `http://localhost:8501`).*
 
